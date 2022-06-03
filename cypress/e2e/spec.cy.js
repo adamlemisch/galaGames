@@ -14,6 +14,9 @@ describe('Take Home Project', () => {
       entire career of writing automation that I cannot interact with an element. I am stumped, disappointed in myself and insanely
       curious as to how your team is getting passed that overlay when executing automation. I tried a few approaches that I have 
       documented below.
+
+      I also rely heavily on config files and secrets to pass params to tests at run time. 
+      I also utilize cryptography to protect sensitive data.
     */
 
     /*
